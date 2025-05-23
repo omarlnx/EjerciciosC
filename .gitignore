@@ -1,0 +1,23 @@
+# Archivos compilados y ejecutables
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dll
+
+# Directorios de build
+bin/
+obj/
+Debug/
+Release/
+
+# Archivos generados por IDEs
+*.cbp
+*.layout
+*.depend
+*.user
+
+# Logs y temporales
+*.log
+*.tmp
