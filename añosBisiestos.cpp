@@ -22,6 +22,10 @@ int main()
             cout<<"Total años bisiestos : "<<contador<<endl;
 
 
+            //Modificar el codigo para implementar una estructura do-while o while
+            //Si la fecha ingresada en mayor solicitar ingresar la fecha menor primero
+
+
     return 0;
 }
 
